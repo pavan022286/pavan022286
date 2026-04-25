@@ -1,4 +1,13 @@
-## Hi there 👋
+Hi! My name is Pavan Patel, and I am a software engineering student at McMaster University. I’m interested in pursuing software development and creating revolutionary technology that positively impacts our world!
+
+🔭 Seeking opportunities in:
+* Software Development
+* AI/ML
+* Data Engineering
+
+📫 Connect with me:
+* Email: [pavan78p@gmail.com](mailto:pavan78p@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/pavanpatel24/
 
 <!--
 **pavan022286/pavan022286** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
